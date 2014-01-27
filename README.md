@@ -3,7 +3,9 @@ Welcome
 
 Dear visitor,
 
-This page is meant ot provide an overview of the Master students who are doing a research in Software Engineering area at the University of Amsterdam (UvA).
+This page is meant to provide an overview of the Master students who started their research project for graduation in the Software Engineering Master Program at the University of Amsterdam.
+
+Students are invited to contribute to this repository. This could help students with similar topics to get together and share ideas.
 
 This is a public repository.
 
