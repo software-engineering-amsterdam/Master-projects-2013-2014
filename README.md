@@ -12,4 +12,7 @@ This is a public repository.
 
 | Name                                              | Description                                                   |
 | --------------------------------------------------|:-------------------------------------------------------------:|
-| [Yosuf Haydary](mailto:yosuf.haydary@gmail.com)   | Testing: How can bugs be detected early in development traject? | [Dummy example to copy paste](somelink)           | Subject: Short description                                    |
+| [Yosuf Haydary](mailto:yosuf.haydary@gmail.com)   | Testing: How can bugs be detected early in development traject? 
+| [Jeroen Peeters](na)                              | Evolution: Generatnig function names                          |
+| [Tuba Kaya](mailto:tuba_kaya@outlook.com)         | Subject: TODO                                                 |
+| [Dummy example to copy paste](somelink)           | Subject: Short description                                    |
