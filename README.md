@@ -18,4 +18,5 @@ This is a public repository.
 | [Ammar Hamid](mailto:ammarhamid84@gmail.com)      | Detecting Inter-Procedural Clone Using PDG and Slicing        |
 | [Martijn Endenburg](mailto:martijn.endenburg@gmail.com)| Evolution: Automatic Means of Detecting Warning Signs in Software Evolution |
 | [Ivan Plantevin](mailto:ivan.p92@gmail.com)       | Testing: Automated Crawling-Based Regression Testing of Rich Internet Applications – A Case Study.|
+| [Cigdem Aytekin](mailto:cigdemaytekin_872@hotmail.com) | Replication of the article: What Programmers Do With Inheritence in Java? | 
 | [Dummy example to copy paste](somelink)           | Subject: Short description                                    |
