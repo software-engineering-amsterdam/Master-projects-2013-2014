@@ -16,4 +16,5 @@ This is a public repository.
 | [Jeroen Peeters](na)                              | Evolution: Generating function names                          |
 | [Tuba Kaya](mailto:tuba_kaya@outlook.com)         | Subject: TODO                                                 |
 | [Ammar Hamid](mailto:ammarhamid84@gmail.com)      | Detecting Inter-Procedural Clone Using PDG and Slicing        |
+| [Martijn Endenburg](mailto:martijn.endenburg@gmail.com)| Evolution: Automatic Means of Detecting Warning Signs in Software Evolution |
 | [Dummy example to copy paste](somelink)           | Subject: Short description                                    |
