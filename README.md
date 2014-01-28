@@ -19,4 +19,5 @@ This is a public repository.
 | [Martijn Endenburg](mailto:martijn.endenburg@gmail.com)| Evolution: Automatic Means of Detecting Warning Signs in Software Evolution |
 | [Ivan Plantevin](mailto:ivan.p92@gmail.com)       | Testing: Automated Crawling-Based Regression Testing of Rich Internet Applications – A Case Study.|
 | [Cigdem Aytekin](mailto:cigdemaytekin_872@hotmail.com) | Replication of the article: What Programmers Do With Inheritence in Java? | 
+| [Edwin van Manen](mailto:edwin.vanmanen@gmail.com)           | Interpretation of domain-specific context from a single line of unrestricted natural language text as search query input     
 | [Dummy example to copy paste](somelink)           | Subject: Short description                                    |
