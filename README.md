@@ -20,4 +20,5 @@ This is a public repository.
 | [Ivan Plantevin](mailto:ivan.p92@gmail.com)       | Testing: Automated Crawling-Based Regression Testing of Rich Internet Applications – A Case Study.|
 | [Cigdem Aytekin](mailto:cigdemaytekin_872@hotmail.com) | Replication of the article: What Programmers Do With Inheritence in Java? | 
 | [Edwin van Manen](mailto:edwin.vanmanen@gmail.com)           | Interpretation of domain-specific context from a single line of unrestricted natural language text as search query input     
+| [Sander Benschop](sander.benschop@gmail.com)      | Replication of the article: Efficient construction of approximate call graphs for JavaScript IDE services                                       |
 | [Dummy example to copy paste](somelink)           | Subject: Short description                                    |
