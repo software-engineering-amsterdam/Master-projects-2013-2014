@@ -21,4 +21,5 @@ This is a public repository.
 | [Cigdem Aytekin](mailto:cigdemaytekin_872@hotmail.com) | Replication of the article: What Programmers Do With Inheritence in Java? | 
 | [Edwin van Manen](mailto:edwin.vanmanen@gmail.com)           | Interpretation of domain-specific context from a single line of unrestricted natural language text as search query input     
 | [Sander Benschop](sander.benschop@gmail.com)      | Replication of the article: Efficient construction of approximate call graphs for JavaScript IDE services                                       |
+| [Maria Gouseti](mailto:mgouseti@gmail.com)        | Current Refactorings in Concurrent Execution: Safe or Not?    |
 | [Dummy example to copy paste](somelink)           | Subject: Short description                                    |
