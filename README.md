@@ -12,7 +12,7 @@ This is a public repository.
 
 | Name                                              | Description                                                   |
 | --------------------------------------------------|:-------------------------------------------------------------:|
-| [Yosuf Haydary](mailto:yosuf.haydary@gmail.com)   | Testing: How can bugs be detected early in development traject? 
+| [Yosuf Haydary](mailto:yosuf.haydary@gmail.com)   | [Early detection of bugs in technical software systems](https://github.com/yosuf/Master-Thesis), [Project progress and activities](https://huboard.com/yosuf/Master-Thesis)
 | [Jeroen Peeters](mailto:jeroen@peetersweb.nl)     | Evolution: Generating meaningful unit names                   |
 | [Tuba Kaya](mailto:tuba_kaya@outlook.com)         | Subject: TODO                                                 |
 | [Ammar Hamid](mailto:ammarhamid84@gmail.com)      | Detecting Inter-Procedural Clone Using PDG and Slicing        |
