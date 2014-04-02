@@ -21,5 +21,6 @@ This is a public repository.
 | [Cigdem Aytekin](mailto:cigdemaytekin_872@hotmail.com) | Replication of the article: What Programmers Do With Inheritence in Java? | 
 | [Edwin van Manen](mailto:edwin.vanmanen@gmail.com)           | Interpretation of domain-specific context from a single line of unrestricted natural language text as search query input     
 | [Sander Benschop](sander.benschop@gmail.com)      | Replication of the article: Efficient construction of approximate call graphs for JavaScript IDE services                                       |
-| [Maria Gouseti](mailto:mgouseti@gmail.com)        | Current Refactorings in Concurrent Execution: Safe or Not?    |
+| [Maria Gouseti](mailto:mgouseti@gmail.com)        | Evaluating the efficiency of GUI ripping for automated testing of Android applications |
+| [Santiago Carrillo](mailto:sancarbar@gmail.com)           | Testing: Measure and compare the efficiency of GUI Ripping vs Monkey testing tool for automated testing of Android applications.                                    |
 | [Dummy example to copy paste](somelink)           | Subject: Short description                                    |
